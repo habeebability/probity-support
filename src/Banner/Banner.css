@@ -1,0 +1,17 @@
+.heading-primary {
+    font-size: 3.5rem;
+    text-align: center;
+
+}
+
+.heading-primary span {
+    display: initial;
+}
+
+
+@media screen and (min-width: 768px) {
+    .heading-primary {
+        font-size: 5rem;
+        text-align: initial;
+    }
+}

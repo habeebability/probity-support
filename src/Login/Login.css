@@ -1,0 +1,9 @@
+.LoginBox {
+    display: grid;
+    place-items: center;
+    margin: 5rem 0;
+}
+
+.loginBtn {
+    background-color: rgb(42, 15, 42);
+}
